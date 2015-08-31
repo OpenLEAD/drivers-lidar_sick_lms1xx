@@ -1,7 +1,7 @@
 #ifndef _DUMMYPROJECT_DUMMY_HPP_
 #define _DUMMYPROJECT_DUMMY_HPP_
 
-namespace laserscanner_sick_lms1xx
+namespace lidar_sick_lms1xx
 {
     class DummyClass
     {

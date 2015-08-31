@@ -1,4 +1,4 @@
-laserscanner_sick_lms1xx
+lidar_sick_lms1xx
 =============
 Driver of the Laserscanner SICK Lms1xx
 
